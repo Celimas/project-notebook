@@ -61,4 +61,11 @@ activities.
 
 ## Post-critique summary
 
+Based on the results of last week's critique, I chose Python as my host language (using Grako as a parser generator), and I moved away from focusing heavily on syntax first to focusing more on IR first.
+
 ## Post-critique reflection
+
+I was focused so heavily on my external DSL that I hadn't been thinking about my IR at all, but after the critique I realized that was a little silly so I first came up with the IR for Deck (yay, Python!), and did research on how I could implement Math in Python (and ended up settling on SciPy).
+
+I will keep this in mind moving forwards as I want to add external features, I will think about how they would be implemented as I come up with them.
+
