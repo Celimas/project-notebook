@@ -9,11 +9,15 @@ exciting milestones, preliminary results, etc. Feel free to include images
 code, and any other resources that you think will help clearly convey your
 design process.
 
+Still need to do this
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
+
+# Hold off on critiquing me until Tuesday. Break put me a day behind on everything...
 
 **What questions do you have for your critique partners? How can they best help
 you?**
